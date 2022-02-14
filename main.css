@@ -1,0 +1,51 @@
+body {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1008px;
+    margin: 1.5em;
+    
+    /* UI Properties */
+  }
+
+    nav{
+    display: flex;
+    justify-content: flex-end;
+    }
+
+    .buttons{
+    top: 45px;
+    left: 120px;
+    width: 1200px;
+    height: 56px;
+/* UI Properties */
+    opacity: 1;
+
+    }
+
+    .hero{
+    text-align: center;
+    top: 15em;
+    }   
+    .heading{
+    background-image: url(Img/Group\ 13080.png);
+    background: transparent;
+    }
+
+    .container{
+    text-align: center;
+    display: flex;
+    background: fixed;
+    }
+    .heading{
+      text-align: center;
+      
+    }
+
+    .appuseinfo{
+      text-align: center;
+      
+    }
+
+
+
